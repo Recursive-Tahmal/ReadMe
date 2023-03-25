@@ -1,7 +1,7 @@
-💫 About Me
+# 💫 About Me
 I'm Recursive Tahmal, a Software Engineering student at UJ. I'm passionate about coding and technology, and I'm constantly seeking new challenges and learning opportunities.
 
-🌐 Socials
+# 🌐 Socials
 Feel free to connect with me on Discord at Recursive Tahmal#3748 or on Twitter at @RTahmal. I enjoy discussing programming, technology, and other related topics with like-minded individuals.
 
 # 💻 Tech Stack:
