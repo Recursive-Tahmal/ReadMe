@@ -1,8 +1,8 @@
 # 💫 About Me
-I'm Recursive Tahmal, a Software Engineering student at UJ. I'm passionate about coding and technology, and I'm constantly seeking new challenges and learning opportunities.
+Hey there! I'm Recursive Tahmal, a Software Engineering student at UJ with a passion for coding and technology. I'm always looking for new challenges and opportunities to learn and grow my skills.
 
 # 🌐 Socials
-Feel free to connect with me on Discord at Recursive Tahmal#3748 or on Twitter at @RTahmal. I enjoy discussing programming, technology, and other related topics with like-minded individuals.
+Connect with me on Discord at Recursive Tahmal#3748 or on Twitter at @RTahmal to chat about all things programming, tech, and beyond.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
