@@ -4,9 +4,12 @@
 
 <img align="left" height="150" src="https://media.tenor.com/O_JAIoDznkoAAAAC/developer-recruiters.gif"  />
 
+
 ###
 
 <br clear="both">
+<br clear="both">
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Recursive-Tahmal&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -14,7 +17,6 @@
 </div>
 
 ###
-<p></p>
 
 <br clear="both">
 
