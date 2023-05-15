@@ -1,4 +1,7 @@
-<h2 align="left">Hey there! I'm Recursive Tahmal, a Software Engineering student at UJ with a passion for coding and technology. I'm always looking for new challenges and opportunities to learn and grow my skills.</h2>
+<h2 align="left">
+Hey there! 👋 I'm Recursive Tahmal, a Software Engineering student at UJ with a passion for coding and technology. 💻🌟 I'm always excited about new challenges and opportunities to learn and grow my skills. 🚀 Let's connect and collaborate! 😃✨
+<br><br>
+Feel free to explore my GitHub repositories and don't hesitate to reach out. 🌟💬 Together, we can create amazing things! 🎉🔥</h2>
 
 ###
 
