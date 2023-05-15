@@ -18,7 +18,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -33,7 +32,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <a href="https://discordapp.com/users/675103989095727113" target="_blank">
