@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Recursive-Tahmal/Recursive-Tahmal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Recursive-Tahmal/Recursive-Tahmal/.github-workflows/snake.yml" alt="Snake animation" />
 
 ###
 
