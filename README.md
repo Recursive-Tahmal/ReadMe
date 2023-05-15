@@ -2,12 +2,18 @@
 
 ###
 
+<img align="left" height="150" src="https://media.tenor.com/O_JAIoDznkoAAAAC/developer-recruiters.gif"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Recursive-Tahmal&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Recursive-Tahmal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -22,9 +28,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/O_JAIoDznkoAAAAC/developer-recruiters.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://discordapp.com/users/675103989095727113" target="_blank">
@@ -34,10 +38,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
 
 ###
 
